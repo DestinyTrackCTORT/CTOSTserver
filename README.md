@@ -1,3 +1,5 @@
+重要提示：我们已迁移 DestinyTrack 更新仓库。请访问：https://github.com/DestinyTrack-I-WayToGod/DestinyTrack_Beta
+
 ## DestinyTrack 启动器程序简介
 
 本程序是专为 DestinyTrack 游戏打造的 Windows 启动器，采用 Python Tkinter 图形界面开发，旨在为玩家提供一站式的 DestinyTrack 启动与管理体验。
